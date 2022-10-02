@@ -26,4 +26,4 @@ For the second question, I created some arrays and functions. After collecting t
 
 first question, like, create a variable as set and code for the required answer.
 
-In the fifth section, create a for loop to add a category and subcategory and find the count of both.
+In the fifth section, create a for-loop with a function to add a category and subcategory and find the count of both.
