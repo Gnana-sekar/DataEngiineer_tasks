@@ -27,3 +27,5 @@ For the second question, I created some arrays and functions. After collecting t
 first question, like, create a variable as set and code for the required answer.
 
 In the fifth section, create a for-loop with a function to add a category and subcategory and find the count of both.
+
+For a sixth section, create a separate code file. create that file to normalise the mrp section with the loop concept  
