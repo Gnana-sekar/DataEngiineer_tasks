@@ -10,7 +10,7 @@ class dataweave:
             for line in f:
                 day.append(json.loads(line))
         return day
-    #subcat_today, subcat_yesterday = [], []
+ 
     today_file = getJSON('C:\\Users\dell\Downloads\DW_Json\\today.json.gz_out', tday)
     yesterday_file = getJSON('C:\\Users\dell\Downloads\DW_Json\\yesterday.json.gz_out', yday)
     def function_one(self):
