@@ -1,5 +1,4 @@
 import json
-#import re
 from collections import Counter
 # 1.Number of Overlapped urlh
 class dataweave:
