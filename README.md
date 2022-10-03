@@ -15,6 +15,8 @@ Cat2 > Subcat3: 8900
 
 6. Generate a new file where mrp is normalized. If there is a 0 or a non-float value or the key doesn't exist, make it "NA".
 
+**Note: Here the json files are downloaded and saved in a local location. If you run the code on your PC, please put your file in the file path of the code.** 
+
 I begin by importing some coding dependencies. Here I created a class because I use some functions. The function method is very easy to read, and since I only use functions.
 #import json
 #from collections import Counter
